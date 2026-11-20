@@ -49,7 +49,7 @@ For technical training programs, security assessments, or corporate inquiries:
 
 * 🌐 **Corporate Website:** [araizcorp.tech](https://araizcorp.tech)
 * 🎓 **Training Platform:** [academy.araizcorp.tech](https://academy.araizcorp.tech)
-* ✉️ **Direct Inquiries:** info@araizcorp.tech
+* ✉️ **Direct Inquiries:** sac@araizcorp.tech
 
 <br>
 
