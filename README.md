@@ -1,58 +1,52 @@
-# 🛡️ AraizCorp — Offensive Security & Technical Training
+# AraizCorp
 
 <p align="center">
-  <a href="https://araizcorp.tech"><img src="https://img.shields.io/badge/Official_Website-araizcorp.tech-1f425f?style=for-the-badge&logo=firefox" /></a>
-  <a href="https://academy.araizcorp.tech"><img src="https://img.shields.io/badge/Academy_Platform-academy.araizcorp.tech-red?style=for-the-badge&logo=target" /></a>
-  <a href="https://medium.com/@araizcorp"><img src="https://img.shields.io/badge/Research-Medium-black?style=for-the-badge&logo=medium" /></a>
+  <strong>Offensive security research, practical training and open technical resources.</strong>
 </p>
-
----
-
-### About AraizCorp
-
-At **AraizCorp**, we deliver advanced offensive security engineering, threat research, and specialized technical training programs. Our focus combines continuous adversary research, proprietary tool development, and hands-on training to strengthen technical readiness and infrastructure resilience for modern enterprises.
-
----
-
-## 🎯 Core Competencies
-
-* ⚔️ **Red Team Operations & Adversary Simulation:** Comprehensive resilience assessments emulating advanced Tactics, Techniques, and Procedures (TTPs).
-* 🏢 **Active Directory & Identity Security:** Domain privilege escalation analysis, hybrid identity audits, and infrastructure hardening.
-* 🔍 **Advanced Penetration Testing:** Attack surface mapping, complex network intrusion testing, and modern application security.
-* 🎓 **Technical Training & Readiness:** High-impact, scenario-driven cyber defense and offensive security programs for technical teams.
-
----
-
-## 🌐 The AraizCorp Ecosystem
-
-| Platform | Scope | Direct Link |
-| :--- | :--- | :--- |
-| **Corporate Portal** | Enterprise services, security consulting, and research initiatives. | [araizcorp.tech](https://araizcorp.tech) |
-| **AraizCorp Academy** | Specialized cyber training platform and technical learning paths. | [academy.araizcorp.tech](https://academy.araizcorp.tech) |
-| **Security Research** | In-depth technical articles, methodologies, and vector breakdowns. | [medium.com/@araizcorp](https://medium.com/@araizcorp) |
-
----
-
-## 🛠️ Open-Source Utilities & Research
-
-In this organization, we publish open technical resources, research findings, and utilities for the security community:
-
-* Technical references and configuration auditing methodologies.
-* Automation scripts, lab templates, and assessment tooling.
-* Hardening guidelines and defensive verification frameworks.
-
----
-
-## 📬 Enterprise & Academic Inquiries
-
-For technical training programs, security assessments, or corporate inquiries:
-
-* 🌐 **Corporate Website:** [araizcorp.tech](https://araizcorp.tech)
-* 🎓 **Training Platform:** [academy.araizcorp.tech](https://academy.araizcorp.tech)
-* ✉️ **Direct Inquiries:** sac@araizcorp.tech
-
-<br>
 
 <p align="center">
-  <sub>© 2026 AraizCorp. All rights reserved. Committed to technical excellence and enterprise information security.</sub>
+  <a href="https://araizcorp.tech"><img alt="Website" src="https://img.shields.io/badge/Website-araizcorp.tech-111827?style=for-the-badge"></a>
+  <a href="https://academy.araizcorp.tech"><img alt="Academy" src="https://img.shields.io/badge/Academy-Labs_%26_Writeups-c62828?style=for-the-badge"></a>
+  <a href="https://academy.araizcorp.tech/writeups/"><img alt="Writeups" src="https://img.shields.io/badge/Writeups-Explore-2ea44f?style=for-the-badge"></a>
 </p>
+
+## What we publish
+
+AraizCorp LLC develops practical resources for penetration testers, red team operators and security students:
+
+- Active Directory attack paths and identity security research
+- Network pivoting and tunneling references
+- Linux privilege escalation methodology
+- Retired Hack The Box, TryHackMe and VulnHub walkthroughs
+- Tools and lab material built for authorized security testing
+
+## Featured repositories
+
+| Repository | Focus |
+|---|---|
+| [Hack The Box, TryHackMe & VulnHub Writeups](https://github.com/araizcorp/hackthebox-tryhackme-writeups) | Searchable index of hands-on lab walkthroughs |
+| [Active Directory Red Team Playbook](https://github.com/araizcorp/active-directory-redteam-playbook) | Enumeration, attack paths and operator references |
+| [Red Team Pivoting and Tunneling](https://github.com/araizcorp/redteam-pivoting-and-tunneling) | Practical network access and routing techniques |
+| [Linux Privilege Escalation Playbook](https://github.com/araizcorp/linux-privilege-escalation-playbook) | Linux enumeration and escalation reference |
+| [Serket](https://github.com/araizcorp/Serket) | AraizCorp open-source security tooling |
+
+## AraizCorp Academy
+
+The Academy contains structured technical material and the complete writeup catalog. Retired-machine material follows the platform publication rules. Writeups for active machines remain protected until publication is permitted.
+
+- [Browse the writeup catalog](https://academy.araizcorp.tech/writeups/)
+- [Protected writeup membership](https://academy.araizcorp.tech/writeups/membership.php?lang=en)
+- [Spanish](https://academy.araizcorp.tech/writeups/membership.php?lang=es) · [Deutsch](https://academy.araizcorp.tech/writeups/membership.php?lang=de)
+
+## Responsible use
+
+All material is intended for systems you own or are explicitly authorized to test. Examples are provided for education, laboratory work and defensive validation.
+
+## Contact
+
+- Website: [araizcorp.tech](https://araizcorp.tech)
+- Academy: [academy.araizcorp.tech](https://academy.araizcorp.tech)
+- Email: [sac@araizcorp.tech](mailto:sac@araizcorp.tech)
+- Medium: [@araizcorp](https://medium.com/@araizcorp)
+
+<p align="center"><sub>© 2026 AraizCorp LLC</sub></p>
