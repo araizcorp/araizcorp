@@ -30,6 +30,10 @@ AraizCorp LLC develops practical resources for penetration testers, red team ope
 | [Linux Privilege Escalation Playbook](https://github.com/araizcorp/linux-privilege-escalation-playbook) | Linux enumeration and escalation reference |
 | [Serket](https://github.com/araizcorp/Serket) | AraizCorp open-source security tooling |
 
+## Practical cheat sheets
+
+- [File Signatures & Magic Bytes Cheat Sheet](https://github.com/araizcorp/araizcorp/blob/main/cheatsheets/file-signatures-and-magic-bytes.md) — forensic triage, file identification and embedded content discovery.
+
 ## AraizCorp Academy
 
 The Academy contains structured technical material and the complete writeup catalog. Retired-machine material follows the platform publication rules. Writeups for active machines remain protected until publication is permitted.
